@@ -1,0 +1,2 @@
+# autoclicker-bookmark
+A Autoclicker
